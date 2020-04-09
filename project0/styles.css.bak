@@ -1,0 +1,19 @@
+#product_section{
+}
+
+#side_bar{
+}
+
+#page_title{
+	h1 =
+    text-align: center;
+
+}
+#welcome{
+	text-align: center;
+}
+
+#navigation{
+	background-color: tan;
+	padding: 15px;
+}

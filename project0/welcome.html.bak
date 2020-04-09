@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Fitness Deals | Home</title>
+		<link rel="stylesheet" href="styles.css">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	</head>
+	<body>
+	
+		<!-- Navigation Bar -->
+		<div id="navigation">
+			<a href="">Home</a>
+			<a href="">Supplements</a>
+			<a href="">Equipment</a>
+			<a href="">Gear</a>
+			<a href="">Programs & Apps</a>
+			
+		</div>
+		<!-- Side Bar, not on welcome page. -->
+		<div id="side_bar"></div>
+		
+			<!-- Page Title and description -->
+			<div id="page_title">
+				<h1>Welcome to Fitness Deals!</h1>
+				<h2><em>Your one stop shop for everything fitness!</em></h2>
+				<p id="welcome">With so many fitness stores online it can take forever to find the best deal. <br> Our fitness deal robots scour the web's most trusted fitness stores to get the best price for the products you need.</p>
+			</div>
+			
+			<!-- Product section -->
+			<div id= "product_section">
+				<h2>Top Deals</h2>
+				<h3>Supplements</h3>
+				<div class="product">Supplements</div>
+			</div>
+	</body>
+</html>
